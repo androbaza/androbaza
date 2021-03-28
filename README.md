@@ -1,7 +1,8 @@
 # Hi there 👋 I'm Andrey
 
 - :kazakhstan: I live in Nur-Sultan, Kazakhstan.
-- 👨🏻‍🎓 I'm computer vision research assistant at [Nazarbayev University](https://seds.nu.edu.kz). 
+- 👨🏻‍🎓 I'm computer vision research assistant at [Nazarbayev University](https://seds.nu.edu.kz).
+- 🤖 B.Sc. in Robotics and Mechatronics, M.Sc in Lasers and Photonics is planned.
 - 👨🏻‍💻 Most of the time I write on Python and C. Sometimes MATLAB.
 - 📸 I love photography since 2014. Check out my [portfolio](https://be.net/androbaza).
 - ✉️ You can shoot me an email at [andrey.yershov@nu.edu.kz](mailto:andrey.yershov@nu.edu.kz).
