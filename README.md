@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Andrey
+# Hi there 👋 I'm Andrey
 
 - :kazakhstan: I live in Nur-Sultan, Kazakhstan.
 - 👨🏻‍🎓 I'm computer vision research assistant at [Nazarbayev University](https://seds.nu.edu.kz). 
