@@ -34,9 +34,7 @@
 <img alt="Duolingo" src="https://img.shields.io/badge/Duolingo%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white"/>
  
 ## 🛠 My hardware
-![](https://img.shields.io/badge/Apple-MacBook_Pro_2013-999999?style=for-the-badge&logo=apple&logoColor=white)
-![](https://img.shields.io/badge/Windows-Redmi_G-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![](https://img.shields.io/badge/Apple-MacBook_Air_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![fujifilm](https://img.shields.io/badge/FUJIFILM-X_S10%20-%23000000.svg?&style=for-the-badge&logo=fujifilm&logoColor=white)
 
 ## 🤝 Connect with me
