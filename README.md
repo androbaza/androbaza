@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Andrey
 
-- :kazakhstan: I live in Nur-Sultan, Kazakhstan.
+- 🇩🇪: I live in Jena, Germany.
 - 👨🏻‍🎓 I'm computer vision research assistant at [Nazarbayev University](https://seds.nu.edu.kz).
 - 🤖 B.Sc. Robotics and Mechatronics, M.Sc Lasers and Photonics 23'
 - 👨🏻‍💻 Most of the time I code on Python and C. Sometimes MATLAB.
