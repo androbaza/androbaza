@@ -7,7 +7,7 @@
 - 📸 I do photography since 2014. Check out my [portfolio](https://behance.net/androbaza).
 - ✉️ You can shoot me an email at [andrey.yershov@nu.edu.kz](mailto:andrey.yershov@nu.edu.kz).
 
-#### My CV: [Andrey Yershov.pdf](https://raw.githubusercontent.com/androbaza/androbaza/main/Andrey%20Yershov%20CV.pdf)
+#### My CV: [Andrey Yershov.pdf](https://github.com/androbaza/androbaza/raw/e8320be886f7394e971a6dab06732921c4f1898a/Andrey%20Yershov%20CV.pdf)
 
 ## 🧰 My fancy badge area
 
