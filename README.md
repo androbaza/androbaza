@@ -1,13 +1,13 @@
 # Hi there 👋 I'm Andrey
 
 - 🇩🇪 I live in Jena, Germany.
-- 👨🏻‍🎓 I'm computer vision/SMLM research assistant at [Friedrich Schiller University](https://www.physik.uni-jena.de/en/dem).
+- 👨🏻‍🎓 I'm computer vision/SMLM researcher at [Friedrich Schiller University](https://www.physik.uni-jena.de/en/dem).
 - 🤖 B.Sc. Robotics, M.Sc Photonics 23'
 - 👨🏻‍💻 Most of the time I code on Python and C. Sometimes MATLAB.
 - 📸 I do photography since 2014. Check out my [portfolio](https://behance.net/androbaza).
 - ✉️ You can shoot me an email at [andrey.yershov@uni-jena.de](mailto:andrey.yershov@uni-jena.de).
 
-#### My CV: [Andrey Yershov.pdf](https://github.com/androbaza/androbaza/raw/e8320be886f7394e971a6dab06732921c4f1898a/Andrey%20Yershov%20CV.pdf)
+#### My CV: [Andrey Yershov.pdf](https://github.com/androbaza/androbaza/blob/main/Andrey%20Yershov%20CV.pdf)
 
 ## 🧰 My fancy badge area
 
