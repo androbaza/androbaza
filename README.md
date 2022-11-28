@@ -31,11 +31,6 @@
 ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) 
 <img alt="XDA Developers" src="https://img.shields.io/badge/XDA-Developers%20-%23AC6E2F.svg?&style=for-the-badge&logo=XDA-Developers&logoColor=white"/>
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
-<img alt="Duolingo" src="https://img.shields.io/badge/Duolingo%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white"/>
- 
-## 🛠 My hardware
-![](https://img.shields.io/badge/Apple-MacBook_Air_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
-![fujifilm](https://img.shields.io/badge/FUJIFILM-X_S10%20-%23000000.svg?&style=for-the-badge&logo=fujifilm&logoColor=white)
 
 ## 🤝 Connect with me
 
