@@ -5,7 +5,7 @@
 - 🤖 B.Sc. Robotics, M.Sc Photonics 23'
 - 👨🏻‍💻 Most of the time I code in Python and C.
 - 📸 I do photography since 2014. Check out my [portfolio](https://behance.net/androbaza).
-- ✉️ You can shoot me an email at [andrey.yershov@uni-jena.de](mailto:andrey.yershov@uni-jena.de).
+- ✉️ You can shoot me an email at [andrey.yershov@uni-jena.de](mailto:andrey.yershov@icloud.com)
 
 #### My CV: [Andrey Yershov.pdf](https://github.com/androbaza/androbaza/blob/main/Andrey%20Yershov%20CV.pdf)
 
