@@ -19,7 +19,6 @@
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)       
-![Made with Jupyter](https://camo.githubusercontent.com/7adba513e360fc04d78fe10bb6d810150ce502fc692be52905f923385655c04d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722532302d2532334633373632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a757079746572266c6f676f436f6c6f723d7768697465)
 <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> 
 ![latex](https://img.shields.io/badge/latex-000000.svg?&style=for-the-badge&logo=actigraph&logoColor=white) 
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
