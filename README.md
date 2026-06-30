@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Andrey
 
-- 🇩🇪 I live in Jena, Germany.
-- 👨🏻‍🎓 I'm computer vision/SMLM researcher at [Friedrich Schiller University](https://www.physik.uni-jena.de/en/dem).
-- 🤖 B.Sc. Robotics, M.Sc Photonics 23'
+- 🇩🇪 I live in Mannheim, Germany.
+- 👨🏻‍🎓 I build custom machines for Photonics industry at Dioptic.
+- 🤖 B.Sc. Robotics, M.Sc Photonics
 - 👨🏻‍💻 Most of the time I code in Python and C.
 - 📸 I do photography since 2014. Check out my [portfolio](https://behance.net/androbaza).
 - ✉️ You can shoot me an email at [andrey.yershov@uni-jena.de](mailto:andrey.yershov@icloud.com)
